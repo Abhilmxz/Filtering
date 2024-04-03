@@ -12,7 +12,7 @@ const Recommended = ({handleClick}) => {
       <Buttons onClickHandler={handleClick} value="Nike" title="Nike" className='btns'>Nike</Buttons>
       <Buttons onClickHandler={handleClick} value="Adidas" title="Adidas" className='btns'>Adidas</Buttons>
       <Buttons onClickHandler={handleClick} value="Puma" title="Puma" className='btns'>Puma</Buttons>
-      <Buttons onClickHandler={handleClick} value="vans" title="Vans" className='btns'>Vans</Buttons>
+      <Buttons onClickHandler={handleClick} value="Vans" title="Vans" className='btns'>Vans</Buttons>
       </div>
       </div>
     </>
